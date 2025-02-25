@@ -32,7 +32,7 @@ Sub WyslijMaile()
     End If
     
     ' Pobranie sciezki do zalacznika
-    attachmentPath = "C:\Users\kreko\Desktop\RKN\kadencja 2024-25\budzet 2025\Preliminarz 2025_do wypelnienia.xlsx"
+    attachmentPath = "LINK DO SCIEZKI"
     
     ' Sprawdzenie czy plik istnieje, jesli nie, otworzenie okna wyboru
     If Dir(attachmentPath) = "" Then
